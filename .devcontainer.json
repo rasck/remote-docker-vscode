@@ -1,0 +1,7 @@
+// See https://aka.ms/vscode-remote/devcontainer.json for format details.
+{
+	"name": "hello_node_test",
+	"dockerFile": "Dockerfile",
+	"extensions": ["davidanson.vscode-markdownlint"],
+	"appPort": ["23000:3000"]
+}
