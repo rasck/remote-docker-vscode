@@ -50,3 +50,8 @@ git clone <https://github.com/Microsoft/vscode-remote-try-dotnetcore> <br />
 git clone <https://github.com/Microsoft/vscode-remote-try-php> <br />
 git clone <https://github.com/Microsoft/vscode-remote-try-rust> <br />
 git clone <https://github.com/Microsoft/vscode-remote-try-cpp> <br />
+
+#### Troubleshooting ####
+* Make sure docker has access to your project/repo on your local OS
+* Some versions of linux is not supported yet. For example the minified Alpine version, that many default node images is based on.
+* Remember to rebuild if you make changes to your `devcontainer.json` or `Dockerfile`
