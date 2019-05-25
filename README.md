@@ -1,6 +1,6 @@
 # Remote containers #
 
-The purpose of this project is to test the new feature in VS Code to remote into a docker container.
+The purpose of this project is to test the new feature in VS Code to remote into a docker container. The following guide in the README assumes you are using a MAC
 
 ## Why use remote containers ##
 
